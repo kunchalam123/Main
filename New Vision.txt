@@ -1,0 +1,2 @@
+https://aws.amazon.com/premiumsupport/knowledge-center/iam-assume-role-cli/
+https://docs.aws.amazon.com/drs/latest/userguide/windows-agent.html
